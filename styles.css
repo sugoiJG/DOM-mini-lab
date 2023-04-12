@@ -1,0 +1,21 @@
+h1 {
+    display: inline-block;
+    color: aliceblue;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 4px;
+    padding: 0px 10px 6px 10px;
+
+}
+
+#hideButton {
+    background-color: #f44336;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+#unhideButton {
+    background-color: blue;
+    border-radius: 4px;
+    padding: 10px;
+}
